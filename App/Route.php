@@ -68,6 +68,8 @@ class Route extends Bootstrap {
 			'action' => 'apagar_tweet'
 		);
 
+		
+
 		$this->setRoutes($routes);
 	}
 
